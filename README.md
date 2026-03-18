@@ -81,7 +81,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Live_Demo-▶-0d1117?style=for-the-badge&labelColor=00e5a0)](https://reelyai-production.up.railway.app/)
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-181717?style=for-the-badge&logo=railway&logoColor=00e5a0)](https://reelyai-production.up.railway.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepUthale/ReelyAI)
 
 </div>
@@ -97,7 +97,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Live_Demo-▶-0d1117?style=for-the-badge&labelColor=00e5a0)](https://smart-ai-rosy.vercel.app/)
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-181717?style=for-the-badge&logo=vercel&logoColor=00e5a0)](https://smart-ai-rosy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepUthale/SmartAI)
 
 </div>
@@ -115,7 +115,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/Live_Demo-▶-0d1117?style=for-the-badge&labelColor=00e5a0)](https://cf-ai-research-paper-qa.uthaledeep2003.workers.dev/)
+[![Live](https://img.shields.io/badge/▶%20Live%20Demo-181717?style=for-the-badge&logo=cloudflare&logoColor=00e5a0)](https://cf-ai-research-paper-qa.uthaledeep2003.workers.dev/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepUthale/cf-ai-research-paper-qa)
 
 </div>
