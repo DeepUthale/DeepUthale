@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=200&section=header&text=Deep%20Uthale&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=200&section=header&text=Deep%20Uthale&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&random=false&width=550&lines=Building+production+apps+from+0+to+deploy;ML+%7C+Backend+%7C+Full-Stack+%7C+Cloud;MS+CS+%26+AMS+%40+Stony+Brook+University" alt="Typing SVG" /></a>
@@ -39,7 +39,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeepUthale&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&ring_color=00e5a0&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeepUthale&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&ring_color=00e5a0" height="175" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepUthale&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&langs_count=8" height="175" alt="Top Languages" />
 
@@ -157,16 +157,6 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 [![ML A-Z](https://img.shields.io/badge/Machine_Learning_A--Z_(Python_&_R)-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-655a652b-898b-4688-8950-c56c114516b9/)
 [![SQL](https://img.shields.io/badge/SQL_for_Data_Analytics-Internshala-2D9CDB?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://trainings.internshala.com/s/v/3648266/58a48fcb)
 [![Meta](https://img.shields.io/badge/Meta_Back--End_Development-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/ZC3K948TAGC4)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeepUthale&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
