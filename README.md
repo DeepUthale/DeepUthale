@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=200&section=header&text=Deep%20Uthale&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=200&section=header&text=Deep%20Uthale&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&random=false&width=550&lines=Building+production+apps+from+0+to+deploy;ML+%7C+Backend+%7C+Full-Stack+%7C+Cloud;MS+CS+%26+AMS+%40+Stony+Brook+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&random=false&width=550&lines=Building+production+apps+from+0+to+deploy;ML+%7C+Backend+%7C+Full-Stack+%7C+Data+Science;MS+CS+%26+AMS+%40+Stony+Brook+University" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -81,7 +81,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/▶_Live_Demo-00e5a0?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://reelyai-production.up.railway.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-▶-0d1117?style=for-the-badge&labelColor=00e5a0)](https://reelyai-production.up.railway.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepUthale/ReelyAI)
 
 </div>
@@ -97,7 +97,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/▶_Live_Demo-00e5a0?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://smart-ai-rosy.vercel.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-▶-0d1117?style=for-the-badge&labelColor=00e5a0)](https://smart-ai-rosy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepUthale/SmartAI)
 
 </div>
@@ -115,7 +115,7 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/▶_Live_Demo-00e5a0?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://cf-ai-research-paper-qa.uthaledeep2003.workers.dev/)
+[![Live](https://img.shields.io/badge/Live_Demo-▶-0d1117?style=for-the-badge&labelColor=00e5a0)](https://cf-ai-research-paper-qa.uthaledeep2003.workers.dev/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepUthale/cf-ai-research-paper-qa)
 
 </div>
