@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=200&section=header&text=Deep%20Uthale&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=200&section=header&text=Deep%20Uthale&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer&descSize=18&descColor=c9d1d9&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&random=false&width=550&lines=Building+production+apps+from+0+to+deploy;ML+%7C+Backend+%7C+Full-Stack+%7C+Cloud;MS+CS+%26+AMS+%40+Stony+Brook+University" alt="Typing SVG" /></a>
@@ -35,21 +35,21 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeepUthale&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&ring_color=00e5a0" height="175" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepUthale&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&langs_count=8" height="175" alt="Top Languages" />
+<a href="https://github.com/DeepUthale">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepUthale&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepUthale&theme=github_dark" alt="Top Languages by Repo" />
+</a>
 
-<br/><br/>
+<a href="https://github.com/DeepUthale">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepUthale&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepUthale&theme=github_dark&utcOffset=-5" alt="Productive Time" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepUthale&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555a68&stroke=00e5a022" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepUthale&bg_color=0d1117&color=00e5a0&line=00e5a0&point=c9d1d9&area=true&area_color=00e5a015&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepUthale&theme=github_dark" width="660" alt="Contribution Graph" />
 
 </div>
 
@@ -164,45 +164,15 @@ I'm a **CS & Applied Math** grad student at **Stony Brook University** (Aug 2025
 
 ## 📈 Contribution Snake
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepUthale/DeepUthale/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepUthale/DeepUthale/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/DeepUthale/DeepUthale/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<details>
-<summary>🐍 How to enable the snake animation</summary>
-<br/>
-
-Add the [snk workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` in your `DeepUthale/DeepUthale` repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DeepUthale
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then run the workflow once manually from the Actions tab.
-
-</details>
+</div>
 
 ---
 
